@@ -1,0 +1,11 @@
+{
+    "https://colorado.rstudio.com/rsc/": {
+        "server_url": "https://colorado.rstudio.com/rsc/",
+        "filename": "/Users/katie/Documents/Accounts/Mondelez/app_venv",
+        "app_url": "https://colorado.rstudio.com/rsc/connect/#/apps/d7008aae-e058-48c4-888b-05a95eb25b79",
+        "app_id": 10385,
+        "app_guid": "d7008aae-e058-48c4-888b-05a95eb25b79",
+        "title": "app_venv",
+        "app_mode": "python-api"
+    }
+}
